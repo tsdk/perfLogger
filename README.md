@@ -1,2 +1,2 @@
-perfLogger
+perfLogger(js performance)
 ==========
